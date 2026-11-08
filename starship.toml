@@ -1,80 +1,77 @@
 [aws]
-symbol = "  "
+symbol = "☁ "
 
 [buf]
-symbol = " "
+symbol = "📦 "
 
 [c]
-symbol = " "
+symbol = "© "
 
 [conda]
-symbol = " "
+symbol = "🅲 "
 
 [dart]
-symbol = " "
+symbol = "🎯 "
 
 [directory]
-read_only = " "
+read_only = " 🔒"
 
 [docker_context]
-symbol = " "
+symbol = "🐳 "
 
 [elixir]
-symbol = " "
+symbol = "💧 "
 
 [elm]
-symbol = " "
+symbol = "🔷 "
 
 [golang]
-symbol = " "
+symbol = "🐹 "
 
 [haskell]
-symbol = " "
+symbol = "λ "
 
 [hg_branch]
-symbol = " "
+symbol = "⎇ "
 
 [java]
-symbol = " "
+symbol = "☕ "
 
 [julia]
-symbol = " "
+symbol = "🟣 "
 
 [lua]
-symbol = " "
+symbol = "🌙 "
 
 [memory_usage]
-symbol = " "
+symbol = "💾 "
 
 [meson]
-symbol = "喝 "
+symbol = "⚙ "
 
 [nim]
-symbol = " "
+symbol = "👑 "
 
 [nix_shell]
-symbol = " "
+symbol = "❄ "
 
 [nodejs]
-symbol = " "
+symbol = "🟢 "
 
 [package]
-symbol = " "
+symbol = "📦 "
 
 [python]
-symbol = " "
+symbol = "🐍 "
+
+[typescript]
+symbol = "📘 "
 
 [rlang]
 symbol = "ﳒ "
 
-[ruby]
-symbol = " "
-
 [rust]
 symbol = "🦀 "
-
-[scala]
-symbol = " "
 
 [spack]
 symbol = "🅢 "
@@ -99,7 +96,7 @@ format = "$all_status$ahead_behind"
 
 [git_branch]
 format = " [$symbol$branch]($style) "
-symbol = " "
+symbol = "⎇ "
 style = "bold yellow"
 
 [git_commit]
