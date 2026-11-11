@@ -28,3 +28,5 @@ git switch "branch" = muda de branch
 git checkout -b main "origin/main" = recupera a branch deletada
 git status = verifica o status do seu repositorio (verde pode levar commit)
 git log = mostra o historico de commits ("q" sai)
+git pull origin master(ou main) = atualiza tudo, tras tudo da origem (arruma)
+git push origin master(ou main) = leva tudo para a origem
